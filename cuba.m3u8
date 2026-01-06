@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="CanalClave" tvg-name="Canal Clave" tvg-logo="https://www.tvcubana.icrt.cu/images/canaleslogo/canal-clave.jpg" group-title="🇨🇺 Cuba (Nacional)",Canal Clave (Música)
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cubavision" tvg-name="Cubavisión" tvg-logo="https://www.tvcubana.icrt.cu/images/canaleslogo/cubavision.jpg" group-title="🇨🇺 Cuba (Nacional)",Cubavisión (Canal de todos)
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/PFkYtYCsgFJWU7PF/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -12,9 +16,7 @@ https://cdn.teveo.cu/live/video/p6KAtp7YhK6Y8Y7e/ngrp:gppfydfzpSUn9Udy.stream/pl
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/X7f3L7pW9X7Z6Y6Z/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalClave" tvg-name="Canal Clave" tvg-logo="https://www.tvcubana.icrt.cu/images/canaleslogo/canal-clave.jpg" group-title="🇨🇺 Cuba (Nacional)",Canal Clave (Música)
-#EXTVLCOPT:http-referrer=https://teveo.cu/
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="CanalCaribe" tvg-name="Canal Caribe" tvg-logo="https://i.imgur.com/G5KYULo.png" group-title="🇨🇺 Cuba (Nacional)",Canal Caribe (Notícias)
 #EXTVLCOPT:http-referrer=https://teveo.cu/
