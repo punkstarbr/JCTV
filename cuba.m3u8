@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="cubavision" tvg-name="Cubavisión Internacional" tvg-logo="https://www.tvcubana.icrt.cu/images/canaleslogo/cubavision-internacional.jpg" group-title="🇨🇺 Cuba",Cubavisión Internacional (HD)
+https://dvrfl06.bozztv.com/astv-cubavisionint/index.m3u8
+
+#EXTINF:-1 tvg-id="cubavision" tvg-name="Cubavisión Internacional Alt" tvg-logo="https://www.tvcubana.icrt.cu/images/canaleslogo/cubavision-internacional.jpg" group-title="🇨🇺 Cuba",Cubavisión Internacional (Server 2)
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canalcaribe" tvg-name="Canal Caribe" tvg-logo="https://i.imgur.com/G5KYULo.png" group-title="🇨🇺 Cuba",Canal Caribe (Notícias 24h)
+https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="telesur" tvg-name="TeleSUR Cuba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Telesur_logo.svg/1200px-Telesur_logo.svg.png" group-title="🇨🇺 Cuba",TeleSUR (Sinal Cuba)
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvmarti" tvg-name="TV Martí" tvg-logo="http://photocall.tv/images/marti.png" group-title="🇨🇺 Cuba",TV Martí (Miami/Cuba)
+https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
