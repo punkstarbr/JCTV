@@ -1,0 +1,20 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="General",Korean Central Television (KCTV) (1080i) [Not 24/7]
+https://tv.intchoson.com/kctv/index.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD" tvg-logo="https://i.imgur.com/p02AEOF.png" http-referrer="https://kcnawatch.org/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36" group-title="General",Korean Central Television (KCTV) (576p)
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://streamer.nknews.org/tvdash/stream.mpd
+#EXTM3U
+#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/KCTV_logo.svg/200px-KCTV_logo.svg.png" group-title="🇰🇵 Coreia do Norte",KCTV (Korean Central TV)
+https://tv.intchoson.com/kctv/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="KCTV_Alt" tvg-name="KCTV Alternative" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/KCTV_logo.svg/200px-KCTV_logo.svg.png" group-title="🇰🇵 Coreia do Norte",KCTV HD (Alternate Link)
+https://kcnawatch.org/korea-central-tv-livestream/
+
+#EXTINF:-1 tvg-id="Ryongnamsan" tvg-name="Ryongnamsan TV" group-title="🇰🇵 Coreia do Norte",Ryongnamsan TV (Educational) - Experimental
+http://122.202.129.136:1935/live/ch4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mansudae" tvg-name="Mansudae TV" group-title="🇰🇵 Coreia do Norte",Mansudae TV (Fim de Semana)
+rtmp://122.202.129.136:1935/live/ch2
